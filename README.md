@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nick. I'm a software developer focused on React and node. I’m currently learning React and node. I'm also reading a book on scheme so I get a little weird 👾
+- 👋 Hi, I’m Nick. I'm a software developer focused on React and node. I’m currently reading a book on scheme so I get a little weird 👾
 - 📫 You can reach me at <a href="mailto:nickprender@gmail.com">`nickprender@gmail.com`</a>
 
 <!---
