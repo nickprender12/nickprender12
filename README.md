@@ -1,4 +1,4 @@
-- Hi, I’m Nick. I'm a software developer with a focus in React and node.js.
+- Hi, I’m Nick. I'm a software developer with React and node.js.
 - 📫 You can reach me at <a href="mailto:nickprender@gmail.com">`nickprender@gmail.com`</a>
 
 <!---
